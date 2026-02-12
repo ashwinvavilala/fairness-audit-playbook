@@ -21,6 +21,7 @@ This playbook provides clear guidance, reusable templates, governance structures
     - [4. Conduct Your Audit](#4-conduct-your-audit)
     - [5. Review the Example Audit](#5-review-the-example-audit)
   - [🔄 Playbook Workflow](#-playbook-workflow)
+  - [Fairness Audit Workflow Diagram](#fairness-audit-workflow-diagram)
   - [🧪 Case Study](#-case-study)
   - [🛠️ Implementation Considerations](#️-implementation-considerations)
     - [Required Resources](#required-resources)
@@ -28,6 +29,9 @@ This playbook provides clear guidance, reusable templates, governance structures
     - [Governance Alignment](#governance-alignment)
   - [💡 Key Insights](#-key-insights)
   - [🤝 Contributing](#-contributing)
+  - [Academic Note](#academic-note)
+  - [Learning Outcomes](#learning-outcomes)
+  - [Reflection](#reflection)
   - [📄 License](#-license)
 
 ---
@@ -172,6 +176,10 @@ Each stage produces a clear output that feeds into the next.
 
 ---
 
+## Fairness Audit Workflow Diagram
+
+┌──────────────────────────┐ │ 1. Introduction & Scope │ └───────────────┬──────────┘ │ ┌───────────────▼──────────┐ │ 2. Historical Context │ └───────────────┬──────────┘ │ ┌───────────────▼──────────┐ │ 3. Fairness Definitions │ └───────────────┬──────────┘ │ ┌───────────────▼──────────┐ │ 4. Bias Identification │ └───────────────┬──────────┘ │ ┌───────────────▼──────────┐ │ 5. Fairness Metrics │ └───────────────┬──────────┘ │ ┌───────────────▼──────────┐ │ 6. Mitigation Strategies │ └───────────────┬──────────┘ │ ┌───────────────▼──────────┐ │ 7. Validation & Review │ └───────────────┬──────────┘ │ ┌───────────────▼──────────┐ │ 8. Adaptability & Updates │ └───────────────────────────┘
+
 ## 🧪 Case Study
 
 A complete case study is included in:playbook/06_Case_Study.md
@@ -240,6 +248,31 @@ Contributions are welcome.
 Please review the `docs/CONTRIBUTING.md` file for guidelines.
 
 ---
+
+## Academic Note
+
+This project was developed as part of coursework for the Master’s in AI Ethics program. It demonstrates the design and documentation of a domain‑agnostic Fairness Audit Playbook, including structured methodology, templates, governance guidance, and a practical case study. The goal of this project is to showcase applied understanding of fairness concepts, bias identification, responsible AI practices, and audit reproducibility within machine learning systems.
+
+## Learning Outcomes
+
+By completing this project, the following learning outcomes were achieved:
+
+- Ability to analyze historical and structural inequities relevant to an ML system.
+- Understanding of fairness definitions and how to select them based on context.
+- Ability to identify bias sources across the ML lifecycle.
+- Practical experience applying fairness metrics such as TPR disparity and approval rate disparity.
+- Ability to design and document mitigation strategies.
+- Understanding of governance, validation, and audit reproducibility.
+- Experience creating templates and documentation for organizational adoption.
+- Ability to communicate fairness findings clearly and professionally.
+
+## Reflection
+
+Developing this Fairness Audit Playbook was a valuable learning experience that deepened my understanding of responsible AI practices. One of the key insights was recognizing that fairness is not solely a model‑level concern; it is shaped by historical inequities, data collection processes, labeling practices, and organizational decision‑making.
+
+Designing the playbook required balancing technical depth with accessibility so that teams with varying levels of expertise could use it effectively. Creating the case study helped reinforce how fairness metrics behave in practice and how mitigation strategies influence both model performance and business risk.
+
+Overall, this project strengthened my ability to structure complex workflows, communicate ethical considerations, and design practical tools that support transparency and accountability in machine learning systems.
 
 ## 📄 License
 
