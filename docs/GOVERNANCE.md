@@ -23,3 +23,13 @@
 - **Quarterly minor releases**  
 - **Annual major release**  
 - **Patch releases** for urgent fixes  
+
+## Roles & Responsibilities
+
+| Role | Responsibilities |
+|------|------------------|
+| **ML Engineer** | Implements mitigations, updates model code, ensures reproducibility |
+| **Data Scientist** | Computes fairness metrics, performs analysis, validates statistical reliability |
+| **Product Owner** | Approves trade-offs, aligns fairness goals with business needs |
+| **Responsible AI Lead** | Oversees audit quality, ensures compliance, signs off on final audit |
+| **Technical Program Manager** | Coordinates timelines, documentation, and stakeholder reviews |
