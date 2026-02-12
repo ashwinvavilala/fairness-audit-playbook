@@ -146,6 +146,8 @@ After applying mitigations:
 - Calibration improved for minority groups
 - Business risk remained within acceptable thresholds
 
+## The metrics in the case study are illustrative but grounded in how fairness audits are actually run. In a real system, I would compute TPR, approval rates, and calibration per group before and after mitigation. For the case study, I chose realistic values that show a meaningful reduction in disparity while keeping business risk within acceptable thresholds. The goal was to demonstrate the shape of a real fairness improvement, not fabricate perfect parity
+
 The model was approved for deployment with ongoing monitoring requirements.
 
 ---
