@@ -18,9 +18,9 @@ The playbook is designed for broad adoption across engineering teams, requiring 
 
 ## Business Impact
 
-- Reduces regulatory and reputational risk  
-- Improves model reliability and trust  
-- Enables consistent fairness evaluations across teams  
-- Establishes accountability and documentation standards  
+- Reduces regulatory and reputational risk
+- Improves model reliability and trust
+- Enables consistent fairness evaluations across teams
+- Establishes accountability and documentation standards
 
 This playbook positions the company to proactively manage fairness risks and build responsible AI systems at scale.

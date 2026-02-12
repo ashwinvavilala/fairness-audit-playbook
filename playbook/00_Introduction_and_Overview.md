@@ -2,13 +2,9 @@
 
 \### Introduction \& Overview
 
-
-
 \## 1. Purpose
 
 The Fairness Audit Playbook provides a unified, repeatable, and rigorous process for evaluating fairness across all AI systems used or built by the company. It standardizes fairness assessments across teams and ensures alignment with ethical, regulatory, and business goals.
-
-
 
 \## 2. Motivation
 
@@ -22,8 +18,6 @@ The company currently faces:
 
 \- Risk of systemic bias in deployed AI systems
 
-
-
 This playbook solves these issues by providing:
 
 \- A standardized audit workflow
@@ -35,8 +29,6 @@ This playbook solves these issues by providing:
 \- Practical implementation guidance
 
 \- Built‑in intersectional fairness considerations
-
-
 
 \## 3. High-Level Workflow
 
@@ -66,35 +58,28 @@ The fairness audit process follows a structured, repeatable sequence designed to
 8. **Review and Iterate**  
    Share findings with stakeholders. Integrate lessons learned into future model development cycles. Update the audit as the model evolves or new risks emerge.
 
-
-
-
-
 \## 4. Intended Users
 
-\- ML Engineers  
+\- ML Engineers
 
-\- Data Scientists  
+\- Data Scientists
 
-\- Product Teams  
+\- Product Teams
 
-\- Responsible AI / Ethics Teams  
+\- Responsible AI / Ethics Teams
 
-\- Technical Program Managers  
-
-
+\- Technical Program Managers
 
 \## 5. Audit Deliverables
 
-\- Historical context analysis  
+\- Historical context analysis
 
-\- Fairness definition selection  
+\- Fairness definition selection
 
-\- Bias source map  
+\- Bias source map
 
-\- Metrics report  
+\- Metrics report
 
-\- Mitigation recommendations  
+\- Mitigation recommendations
 
-\- Validation summary  
-
+\- Validation summary

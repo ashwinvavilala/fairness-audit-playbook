@@ -1,8 +1,6 @@
-\# Fairness Audit Report  
+\# Fairness Audit Report
 
 \## \[Project / Model Name]
-
-
 
 \### 1. Overview
 
@@ -16,11 +14,7 @@
 
 \- Risk level (Low / Medium / High):
 
-
-
 ---
-
-
 
 \### 2. Historical Context Summary
 
@@ -32,11 +26,7 @@
 
 \- Potential harms:
 
-
-
 ---
-
-
 
 \### 3. Fairness Definition
 
@@ -48,11 +38,7 @@
 
 \- Trade-offs:
 
-
-
 ---
-
-
 
 \### 4. Bias Source Identification
 
@@ -60,11 +46,7 @@
 
 |-------------|----------|-----------------|----------|------------|
 
-
-
 ---
-
-
 
 \### 5. Metrics Summary
 
@@ -78,11 +60,7 @@
 
 \- Visualizations:
 
-
-
 ---
-
-
 
 \### 6. Mitigation Actions
 
@@ -92,11 +70,7 @@
 
 \- Expected impact:
 
-
-
 ---
-
-
 
 \### 7. Validation Summary
 
@@ -108,15 +82,10 @@
 
 \- Governance validation:
 
-
-
 ---
-
-
 
 \### 8. Final Recommendation
 
 \- Deploy / Do not deploy / Deploy with guardrails
 
 \- Required follow-up actions:
-

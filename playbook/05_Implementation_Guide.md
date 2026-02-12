@@ -1,78 +1,63 @@
 \# Implementation Guide
 
-
-
 \## Purpose
 
 Provide practical instructions for engineering teams to run a fairness audit efficiently and consistently.
 
-
-
 \## Required Inputs
 
-\- Model artifacts  
+\- Model artifacts
 
-\- Training data  
+\- Training data
 
-\- Evaluation data  
+\- Evaluation data
 
-\- Documentation (model cards, data sheets)  
+\- Documentation (model cards, data sheets)
 
-\- Business requirements  
-
-
+\- Business requirements
 
 \## Required Expertise
 
-\- ML engineer or data scientist  
+\- ML engineer or data scientist
 
-\- Product owner  
+\- Product owner
 
-\- Optional: fairness expert  
-
-
+\- Optional: fairness expert
 
 \## Time Requirements
 
-\- Low-risk models: 1–2 weeks  
+\- Low-risk models: 1–2 weeks
 
-\- High-risk models: 3–6 weeks  
-
-
+\- High-risk models: 3–6 weeks
 
 \## Integration with Existing Processes
 
 This playbook integrates with:
 
-\- Model development lifecycle  
+\- Model development lifecycle
 
-\- Model review boards  
+\- Model review boards
 
-\- Risk assessments  
+\- Risk assessments
 
-\- Compliance workflows  
-
-
+\- Compliance workflows
 
 \## Key Decision Points
 
-\- Fairness definition  
+\- Fairness definition
 
-\- Subgroup prioritization  
+\- Subgroup prioritization
 
-\- Metric selection  
+\- Metric selection
 
-\- Escalation to fairness experts  
-
-
+\- Escalation to fairness experts
 
 \## Risks \& Mitigations
 
-\- Small subgroup sizes → Use confidence intervals  
+\- Small subgroup sizes → Use confidence intervals
 
-\- Noisy labels → Re-label or use robust metrics  
+\- Noisy labels → Re-label or use robust metrics
 
-\- Conflicting fairness definitions → Document trade-offs  
+\- Conflicting fairness definitions → Document trade-offs
 
-\- Third-party models → Require vendor transparency  
-
+\- Third-party models → Require vendor transparency

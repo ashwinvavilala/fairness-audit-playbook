@@ -1,86 +1,69 @@
 \# Historical Context Assessment
 
-
-
 \## Purpose
 
 Historical context ensures fairness evaluations are grounded in real‑world inequities, domain‑specific risks, and the lived experiences of impacted groups.
 
-
-
 \## Workflow
-
-
 
 \### Step 1 — Identify Stakeholders
 
-\- Directly impacted users  
+\- Directly impacted users
 
-\- Indirectly impacted groups  
+\- Indirectly impacted groups
 
-\- Regulators and auditors  
+\- Regulators and auditors
 
-\- Advocacy groups  
-
-
+\- Advocacy groups
 
 \### Step 2 — Map Historical Inequities
 
 Document:
 
-\- Known discrimination patterns  
+\- Known discrimination patterns
 
-\- Structural inequities  
+\- Structural inequities
 
-\- Regulatory history  
+\- Regulatory history
 
-\- Prior incidents (internal or industry-wide)  
-
-
+\- Prior incidents (internal or industry-wide)
 
 \### Step 3 — Identify Sensitive \& Intersectional Attributes
 
 Examples:
 
-\- Race  
+\- Race
 
-\- Gender  
+\- Gender
 
-\- Age  
+\- Age
 
-\- Disability  
+\- Disability
 
-\- Socioeconomic status  
+\- Socioeconomic status
 
 \- Intersectional combinations (e.g., Black women over 40)
 
-
-
 \### Step 4 — Assess Potential Harms
 
-\- Allocation harms  
+\- Allocation harms
 
-\- Quality-of-service harms  
+\- Quality-of-service harms
 
-\- Representational harms  
-
-
+\- Representational harms
 
 \### Step 5 — Produce a Context Summary
 
 A one-page document including:
 
-\- Key inequities  
+\- Key inequities
 
-\- High-risk groups  
+\- High-risk groups
 
-\- Relevant regulations  
+\- Relevant regulations
 
-\- Potential harm pathways  
-
-
+\- Potential harm pathways
 
 \## Output
 
 A documented historical context report that informs fairness definition selection.
-

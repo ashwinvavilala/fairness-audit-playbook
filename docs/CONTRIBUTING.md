@@ -16,9 +16,9 @@ We welcome contributions from engineering, data science, and Responsible AI team
 
 4. **Submit a Pull Request**  
    Include:
-   - A clear description of the change  
-   - Rationale  
-   - Evidence or references if applicable  
+   - A clear description of the change
+   - Rationale
+   - Evidence or references if applicable
 
 ## Code of Conduct
 
@@ -27,6 +27,6 @@ We expect respectful, constructive collaboration at all times.
 
 ## Review Process
 
-- Minor changes require approval from one maintainer.  
-- Major changes require consensus from maintainers and the Responsible AI team.  
+- Minor changes require approval from one maintainer.
+- Major changes require consensus from maintainers and the Responsible AI team.
 - All documentation updates must follow the repository’s structure and style guidelines.

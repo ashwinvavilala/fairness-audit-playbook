@@ -40,5 +40,4 @@ Below is the conceptual workflow used throughout the Fairness Audit Playbook.
             │ - Validation checklist    │
             └──────────────────────────┘
 
-
 This workflow ensures fairness evaluations are rigorous, repeatable, and aligned with organizational goals.

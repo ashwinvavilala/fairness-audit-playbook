@@ -1,68 +1,53 @@
 \# Adaptability \& Future Improvements
 
-
-
 \## Domain Adaptation
-
-
 
 \### Healthcare
 
-\- Higher regulatory burden  
+\- Higher regulatory burden
 
-\- Emphasis on equal opportunity and calibration  
-
-
+\- Emphasis on equal opportunity and calibration
 
 \### Finance
 
-\- Strong regulatory constraints  
+\- Strong regulatory constraints
 
-\- Emphasis on demographic parity and adverse impact ratios  
-
-
+\- Emphasis on demographic parity and adverse impact ratios
 
 \### Hiring
 
-\- Focus on representational fairness  
+\- Focus on representational fairness
 
-\- Avoidance of proxy features  
-
-
+\- Avoidance of proxy features
 
 \## Model Type Adaptation
 
-\- Classification → error rate parity  
+\- Classification → error rate parity
 
-\- Regression → residual fairness  
+\- Regression → residual fairness
 
-\- Ranking → exposure fairness  
+\- Ranking → exposure fairness
 
-\- Generative → representational harms  
-
-
+\- Generative → representational harms
 
 \## Future Improvements
 
-\- Automated fairness dashboards  
+\- Automated fairness dashboards
 
-\- CI/CD integration  
+\- CI/CD integration
 
-\- Expanded intersectional analytics  
+\- Expanded intersectional analytics
 
-\- Vendor fairness certification  
+\- Vendor fairness certification
 
-\- Continuous monitoring for drift  
-
-
+\- Continuous monitoring for drift
 
 \## Continuous Learning
 
 Teams should revisit the playbook annually to incorporate:
 
-\- New research  
+\- New research
 
-\- New regulations  
+\- New regulations
 
-\- New organizational priorities  
-
+\- New organizational priorities

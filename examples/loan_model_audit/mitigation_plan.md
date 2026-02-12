@@ -1,7 +1,5 @@
 \# Mitigation Plan — Loan Approval Model
 
-
-
 \## 1. Data-Level Mitigations
 
 \- Oversampling underrepresented groups
@@ -9,8 +7,6 @@
 \- Reweighting to reduce label bias
 
 \- Label audit and adjusted targets
-
-
 
 \## 2. Model-Level Mitigations
 
@@ -22,15 +18,11 @@
 
 \- Fairness-constrained optimization
 
-
-
 \## 3. Pipeline-Level Mitigations
 
 \- Subgroup drift monitoring
 
 \- Human override audits
-
-
 
 \## 4. Expected Impact
 
@@ -40,19 +32,14 @@
 
 \- Improved calibration
 
-
-
 \## 5. Risks
 
 \- Oversampling variance
 
 \- Threshold adjustments require monitoring
 
-
-
 \## 6. Next Steps
 
 \- Deploy with monitoring
 
 \- Quarterly fairness audits
-

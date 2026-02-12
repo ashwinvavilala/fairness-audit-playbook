@@ -6,6 +6,7 @@ It verifies that the audit followed the playbook, that results are statistically
 ---
 
 ## A. Process Validation
+
 Evaluates whether the audit was conducted thoroughly and consistently.
 
 - Were all steps of the playbook followed?
@@ -16,6 +17,7 @@ Evaluates whether the audit was conducted thoroughly and consistently.
 ---
 
 ## B. Technical Validation
+
 Assesses the statistical robustness and reproducibility of the analysis.
 
 - Are fairness metrics statistically reliable?
@@ -26,6 +28,7 @@ Assesses the statistical robustness and reproducibility of the analysis.
 ---
 
 ## C. Outcome Validation
+
 Determines whether the audit led to measurable improvements.
 
 - Did disparities decrease after mitigation?
@@ -36,6 +39,7 @@ Determines whether the audit led to measurable improvements.
 ---
 
 ## D. Governance Validation
+
 Ensures compliance, accountability, and long-term maintainability.
 
 - Were results reviewed by appropriate stakeholders?
@@ -46,4 +50,5 @@ Ensures compliance, accountability, and long-term maintainability.
 ---
 
 ## Output
+
 A validation summary included in the final audit report, confirming that the audit is complete, reproducible, and ready for governance review.

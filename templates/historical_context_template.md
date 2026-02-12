@@ -1,7 +1,5 @@
 \# Historical Context Assessment Template
 
-
-
 \### 1. Stakeholders
 
 \- Directly impacted:
@@ -11,8 +9,6 @@
 \- Regulators / auditors:
 
 \- Advocacy groups:
-
-
 
 \### 2. Historical Inequities
 
@@ -24,15 +20,11 @@
 
 \- Internal incidents:
 
-
-
 \### 3. Sensitive \& Intersectional Attributes
 
 \- Sensitive attributes:
 
 \- Intersectional groups:
-
-
 
 \### 4. Potential Harms
 
@@ -42,9 +34,6 @@
 
 \- Representational harms:
 
-
-
 \### 5. Summary
 
 One-page narrative summarizing the above.
-

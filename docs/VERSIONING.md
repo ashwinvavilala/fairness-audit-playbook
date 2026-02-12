@@ -2,18 +2,22 @@
 
 This project uses **Semantic Versioning (SemVer)**:
 
+### MAJOR
 
-### MAJOR  
 Breaking changes or structural redesigns.
 
-### MINOR  
+### MINOR
+
 New features, templates, or documentation sections that remain backward compatible.
 
-### PATCH  
+### PATCH
+
 Fixes, clarifications, or small improvements.
 
-### Example  
-`1.2.4`  
-- Major version 1  
-- Minor version 2  
-- Patch version 4  
+### Example
+
+`1.2.4`
+
+- Major version 1
+- Minor version 2
+- Patch version 4

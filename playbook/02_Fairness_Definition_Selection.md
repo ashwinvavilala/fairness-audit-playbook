@@ -1,96 +1,77 @@
 \# Fairness Definition Selection
 
-
-
 \## Purpose
 
 Selecting the right fairness definition ensures alignment with business goals, ethical principles, and regulatory requirements.
 
-
-
 \## Workflow
-
-
 
 \### Step 1 — Identify Decision Type
 
-\- Allocation  
+\- Allocation
 
-\- Ranking  
+\- Ranking
 
-\- Classification  
+\- Classification
 
-\- Regression  
-
-
+\- Regression
 
 \### Step 2 — Identify Harm Type
 
-\- False positives  
+\- False positives
 
-\- False negatives  
+\- False negatives
 
-\- Unequal error rates  
+\- Unequal error rates
 
-\- Unequal access to benefits  
-
-
+\- Unequal access to benefits
 
 \### Step 3 — Select Candidate Definitions
 
 Examples:
 
-\- Demographic Parity  
+\- Demographic Parity
 
-\- Equalized Odds  
+\- Equalized Odds
 
-\- Equal Opportunity  
+\- Equal Opportunity
 
-\- Predictive Parity  
+\- Predictive Parity
 
-\- Calibration  
+\- Calibration
 
-\- Individual Fairness  
-
-
+\- Individual Fairness
 
 \### Step 4 — Evaluate Trade-offs
 
 Document:
 
-\- Conflicts between definitions  
+\- Conflicts between definitions
 
-\- Business constraints  
+\- Business constraints
 
-\- Regulatory requirements  
+\- Regulatory requirements
 
-\- Stakeholder expectations  
-
-
+\- Stakeholder expectations
 
 \### Step 5 — Final Selection
 
 Choose:
 
-\- One primary fairness definition  
+\- One primary fairness definition
 
-\- One secondary definition for robustness  
-
-
+\- One secondary definition for robustness
 
 \## Intersectional Considerations
 
 Evaluate definitions across:
 
-\- Single attributes  
+\- Single attributes
 
-\- Intersectional subgroups  
+\- Intersectional subgroups
 
-\- Minimum subgroup size thresholds  
-
-
+\- Minimum subgroup size thresholds
 
 \## Output
 
 A documented fairness definition with rationale and trade-offs.
-
